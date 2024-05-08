@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **uusaeed749@gmail.com**
 
-- ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+- ![Visitor Count](https://profile-counter.glitch.me/{usman-29}/count.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
