@@ -17,14 +17,8 @@
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/>
 </a>
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="filter: invert(1);"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40" style="filter: invert(1);"/>
-</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" style="filter: invert(1);"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50" style="filter: invert(1);"/>
 </a>
 
 
