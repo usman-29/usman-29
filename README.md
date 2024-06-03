@@ -17,6 +17,8 @@
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/>
 </a>
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![docker](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usman-29&show_icons=true&locale=en&layout=compact" alt="usman-29" /></p>
 
