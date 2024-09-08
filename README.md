@@ -20,6 +20,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/>
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
+  </a>
 </p>
 
 
