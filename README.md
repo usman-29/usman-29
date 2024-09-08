@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usman Saeed</h1>
 <h3 align="center">A passionate Computer Science student.</h3>
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Computer Vision** & **LLMs**
 
 - 📫 How to reach me **uusaeed749@gmail.com**
 
