@@ -1,34 +1,8 @@
 <h1 align="center">Hi 👋, I'm Usman Saeed</h1>
-<h3 align="center">A passionate Computer Science student.</h3>
+<h3 align="center"></h3>
 
 - 📫 How to reach me **uusaeed749@gmail.com**
 
-## 💻 Skills and Expertise  
-
-- **Programming Languages**  
-  - Python, JavaScript, TypeScript, C++, Dart
-
-- **Full Stack Development**  
-  - MERN Stack: MongoDB, Express.js, React.js, Node.js  
-  - Proficient in developing and deploying end-to-end applications  
-
-- **Backend Technologies**  
-  - Flask, FastAPI, NestJS
-  - SQL: Relational database management and queries  
-  - Firebase: Real-time databases, authentication, cloud functions 
-
-- **Artificial Intelligence and Machine Learning**  
-  - Machine Learning (ML) and Deep Learning (DL)  
-  - Computer Vision: Object Detection, Image Processing  
-  - Generative AI (GenAI): Building AI models for creative applications  
-  - Large Language Models (LLMs): Fine-tuning, Prompt Engineering  
-
-- **Mobile App Development**  
-  - Flutter: Cross-platform mobile apps  
-
-- **Cloud and DevOps**  
-  - AWS: Deploying scalable applications, serverless computing  
-  - Docker: Containerization and deployment of applications  
 
 
 <h3 align="left">Connect with me:</h3>
@@ -59,11 +33,11 @@
       <strong>CSS3</strong>
     </td>
     <td align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-  </a><br/>
-  <strong>JavaScript</strong>
-</td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+      </a><br/>
+      <strong>JavaScript</strong>
+    </td>
     <td align="center">
       <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
@@ -83,19 +57,20 @@
       <strong>Python</strong>
     </td>
   </tr>
-  <td align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
-  </a><br/>
-  <strong>ReactJS</strong>
-</td>
-
-  <td align="center">
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+      </a><br/>
+      <strong>ReactJS</strong>
+    </td>
+    <td align="center">
       <a href="https://flutter.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
       </a><br/>
       <strong>Flutter</strong>
     </td>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -104,23 +79,23 @@
       <strong>Firebase</strong>
     </td>
     <td align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/>
-  </a><br/>
-  <strong>Flask</strong>
-</td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/>
+      </a><br/>
+      <strong>Flask</strong>
+    </td>
     <td align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"/>
-  </a><br/>
-  <strong>FastAPI</strong>
-</td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"/>
+      </a><br/>
+      <strong>FastAPI</strong>
+    </td>
     <td align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
-  </a><br/>
-  <strong>NodeJS</strong>
-</td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
+      </a><br/>
+      <strong>NodeJS</strong>
+    </td>
     <td align="center">
       <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40"/>
@@ -139,12 +114,12 @@
       </a><br/>
       <strong>PostgreSQL</strong>
     </td>
-     <td align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
-  </a><br/>
-  <strong>MongoDB</strong>
-</td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
+      </a><br/>
+      <strong>MongoDB</strong>
+    </td>
     <td align="center">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -181,12 +156,12 @@
       </a><br/>
       <strong>Docker</strong>
     </td>
-    
     <td align="center">
       <!-- Empty space if needed -->
     </td>
   </tr>
 </table>
+
 
 
 
