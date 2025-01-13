@@ -60,6 +60,12 @@
   <tr>
     <td align="center">
       <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
+      </a><br/>
+      <strong>Tailwind CSS</strong>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
       </a><br/>
       <strong>ReactJS</strong>
@@ -94,14 +100,20 @@
       </a><br/>
       <strong>NodeJS</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40"/>
       </a><br/>
       <strong>NestJS</strong>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
+      </a><br/>
+      <strong>Express</strong>
+    </td>
     <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -132,14 +144,20 @@
       </a><br/>
       <strong>Docker</strong>
     </td>
+  </tr>
+  <tr>
+     <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/>
+      </a><br/>
+      <strong>AWS</strong>
+    </td>
     <td align="center">
       <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
       </a><br/>
       <strong>OpenCV</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
