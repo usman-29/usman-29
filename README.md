@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usman Saeed</h1>
 <h3 align="center">Junior Software Developer & AI Engineer</h3>
 
-- 📫 How to reach me **uusaeed749@gmail.com**
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -169,11 +167,6 @@
         <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/>
       </a><br/>
       <strong>PyTorch</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- Empty space if needed -->
     </td>
   </tr>
 </table>
